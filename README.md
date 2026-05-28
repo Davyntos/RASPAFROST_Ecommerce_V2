@@ -2,10 +2,10 @@
 
 **Institución:** Tecnológico Nacional de México — Campus Pachuca  
 **Materia:** Negocios Electrónicos II  
-**Docente:** Tania Ofelia López Zeron
-**Equipo de Desarrollo:** Cortes Jason – B25200466
-Guzmán Sánchez David Fidel – 21200255
-Esparza Lares Nicole Dayana - 22200208
+**Docente:** Tania Ofelia López Zeron  
+**Equipo de Desarrollo:** * Cortés Jason — B25200466  
+* Esparza Lares Nicole Dayana — 22200208  
+* Guzmán Sánchez David Fidel — 21200255  
 
 ---
 
@@ -48,7 +48,3 @@ El núcleo logístico opera enlazando la tabla analítica de `productos` con una
 
 ### 4. Atención al Cliente (Módulo de Mensajería)
 Flujo regulado de comunicación asíncrona mediante la tabla `mensajes_contacto`. El cliente remite dudas desde el frontoffice y el administrador las procesa, audita su estado (`nuevo`, `leído`, `respondido`) y redacta soluciones desde su bandeja exclusiva del Backoffice.
-
----
-
-            └── footer.php
